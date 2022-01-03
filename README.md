@@ -1,2 +1,5 @@
-# Entity-Component-System-Rtype
-An Epitech 3rd year projet where we had to create a game engine using an Entity Component System architecture and create a r-type with it to prove that it works
+# Windows
+
+To compile, make sure that you build on RELEASE on NOT DEBUG (because asio don't like that)
+Build each client & server individually, make sure you select client as default build & launch
+On client, click on properties, go to debug and add on command line : `localhost 1235`

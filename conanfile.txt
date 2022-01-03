@@ -1,0 +1,17 @@
+[requires]
+sfml/2.5.1
+asio/1.20.0
+boost/1.77.0
+
+[options]
+*:shared=True
+
+[imports]
+lib, *.so* -> lib
+bin, *.dll* -> bin
+include, *.h -> include/
+
+[generators]
+cmake
+cmake_paths
+cmake_find_package

@@ -1,0 +1,4 @@
+/home/tLacheroy/Tek3/B-CPP-501-LYN-5-1-rtype-timothe.lacheroy/build/CMakeFiles/rebuild_cache.dir
+/home/tLacheroy/Tek3/B-CPP-501-LYN-5-1-rtype-timothe.lacheroy/build/CMakeFiles/edit_cache.dir
+/home/tLacheroy/Tek3/B-CPP-501-LYN-5-1-rtype-timothe.lacheroy/build/CMakeFiles/r-type_client.dir
+/home/tLacheroy/Tek3/B-CPP-501-LYN-5-1-rtype-timothe.lacheroy/build/CMakeFiles/r-type_server.dir
